@@ -19,7 +19,7 @@ Después de ejecutar el script de instalación se reiniciará el sistema y podr�
 
 <img src="images/frame-webkit-kiosk_01.png" >
   
-Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona un quiosco configurado en dos formatos
+Para facilitar el despiegle/prueba de quioscos con **wpe-webkit-mir-kiosk** se proporciona un quiosco configurado en dos formatos
 
 - Imagen para desplegar un quiosco en modo persistente desde un **pendrive**
 - Imagen ISO para instalar un servidor Ubuntu Server LTS 22.04 y automatizar la instalación del quiosco
@@ -47,7 +47,7 @@ Pasos para realizar la instalación del quiosco:
 | --- | ---- |
 | 1 | Instalar Ubuntu Server LTS 22.04 (Al finalizar la instalación debe pulsar ENTER para reiniciar el sistema) |
 | 2 | En el primer reinicio del sistema, si lo desea, puede realizar ajustes en el sistema |
-| 3 | En el segundo reinicio se realiza de forma automática la instalación y configuración del quiosco |
+| 3 | En el segundo reinicio se inicia de forma automática la instalación y configuración del quiosco |
 
 # Pantallas
 
