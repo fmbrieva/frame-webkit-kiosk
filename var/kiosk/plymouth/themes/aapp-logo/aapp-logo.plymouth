@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=AAPP Logo
+Description=A theme that features a background with a logo for DIGITALIZA-AAPP 
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/aapp-logo
+ScriptFile=/usr/share/plymouth/themes/aapp-logo/aapp-logo.script
