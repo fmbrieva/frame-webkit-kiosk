@@ -41,7 +41,7 @@ Imagen ISO para instalar un servidor Ubuntu Server LTS 22.04 y automatizar la in
 - [**frame-webkit-kiosk-v00r34-server_22.04-amd64.iso**](https://drive.google.com/file/d/1G_a9wdiKLcE7agOzZ3lMZqzDmKWt34qj/view?usp=sharing) (10/07/2022)
 - [**frame-webkit-kiosk-v00r34-server_22.04-amd64.md5**](https://drive.google.com/file/d/1YSXAL1DroPNZzh8S83QQ3niTfj1g5JSt/view?usp=sharing) (10/07/2022) - Código Hash MD5 para verificar imagen ISO 
 
-Pasos para realizar la instalación del quiosco:
+Pasos para realizar la instalación de Ubuntu Server con el quiosco:
 
 | Paso | Descripcion |
 | --- | ---- |
