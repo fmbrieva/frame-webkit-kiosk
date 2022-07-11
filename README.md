@@ -49,6 +49,14 @@ Pasos para realizar la instalación de Ubuntu Server con el quiosco:
 | 2 | En el primer reinicio del sistema, si lo desea, puede realizar ajustes en el sistema |
 | 3 | En el segundo reinicio se inicia de forma automática la instalación y configuración del quiosco |
 
+```mermaid
+graph TD;
+    Server(Instalar Ubuntu Server LTS sin entorno gráfico)-->1_Reinicio(Primer reinicio del sistema);
+    1_Reinicio-->2_Reinicio(Segundo Reinicio);
+    2_Reinicio-->Wpe-webkit(Comienza instalación automática de wpe-webkit-mir-kiosk y configuración del quiosco);
+    1_Reinicio(Primer Reinicio)-->Opcional_1_Reinicio(Opcional: Realizar ajustes en Ubuntu Server);
+```
+
 # Pantallas
 
   <img src="images/frame-webkit-kiosk_02.png" >
