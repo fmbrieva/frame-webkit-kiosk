@@ -26,8 +26,8 @@
 #                                                                                          #
 ############################################################################################
 
-KIOSK_VERSION="00.34"
-VAR_KIOSK="/root/frame-webkit-kiosk_v00r34/var/kiosk"
+KIOSK_VERSION="00.36"
+VAR_KIOSK="/root/frame-webkit-kiosk/var/kiosk"
 
 SCRIPT_BOOT=$VAR_KIOSK"/service/kiosk_boot.sh"
 SCRIPT_SHUTDOWN=$VAR_KIOSK"/service/kiosk_shutdown.sh"
