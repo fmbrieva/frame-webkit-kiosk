@@ -10,6 +10,8 @@ Script para desplegar la interfaz gráfica de un quiosco interactivo  utilizando
 
 Pasos a realizar para desplegar el quiosco en un equipo con ***Ubuntu Server LTS*** instalado.
 
+El clonado del repositorio y la ejecución del script de instalación debe realizarse con el usuario **root** en la carpeta **/root**.
+
 | Descripción | Acción |
 | --- | ---- |
 | Clonar repositorio | ```git clone https://github.com/fmbrieva/frame-webkit-kiosk.git```|
